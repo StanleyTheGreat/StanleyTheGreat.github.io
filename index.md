@@ -25,10 +25,10 @@ return 0;
 2. Olive Oil
 3. Butter
 4. Baking Goods
-   1. Baking Soda
-   2. Cream of Tarter
-   3. Flour
-   4. Sugar
+   * Baking Soda
+   * Cream of Tarter
+   * Flour
+   * Sugar
   
 ### Here's a simple quote:
 
