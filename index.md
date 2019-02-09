@@ -11,7 +11,7 @@ Because it's cool  <br/>
 
 ### Here's the code for a HelloWorld program I wrote in C:
 
-'''C
+'''
 #include <stdio.h>  
 int main(void) {  
 printf("Hello world\n");  
