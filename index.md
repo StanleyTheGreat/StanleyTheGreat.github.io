@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
-You can use the [editor on GitHub](https://github.com/StanleyTheGreat/StanleyTheGreat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You will find all of my most recent updates here on my website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Here is a poem I wrote for your entertainment:
 
-### Markdown
+Roses are red
+Violets are blue
+I like GitHub
+Because it's cool
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Here's the code for a HelloWorld program I wrote in C:
 
-```markdown
-Syntax highlighted code block
+'''C
+#include <stdio.h>
+int main(void) {
+printf("Hello world\n");
+return 0;
+}
+'''
 
-# Header 1
-## Header 2
-### Header 3
+# Here's my grocery list for this week:
 
-- Bulleted
-- List
+1. Pop Tarts
+1. Olive Oil
+1. Butter
+1. Baking Goods
+  1. Baking Soda
+  1. Cream of Tarter
+  1. Flour
+  1. Sugar
+  
+# Here's a simple quote:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StanleyTheGreat/StanleyTheGreat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> It always seems impossible 
+> until it's done.
+> ~ Nelson Mandela
