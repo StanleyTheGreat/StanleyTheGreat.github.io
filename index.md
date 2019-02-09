@@ -11,13 +11,13 @@ Because it's cool  <br/>
 
 ### Here's the code for a HelloWorld program I wrote in C:
 
-'''
+```
 #include <stdio.h>  
 int main(void) {  
 printf("Hello world\n");  
 return 0;  
 }
-'''
+```
 
 ### Here's my grocery list for this week:
 
