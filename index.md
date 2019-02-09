@@ -22,13 +22,13 @@ return 0;
 ### Here's my grocery list for this week:
 
 1. Pop Tarts
-1. Olive Oil
-1. Butter
-1. Baking Goods
+2. Olive Oil
+3. Butter
+4. Baking Goods
   1. Baking Soda
-  1. Cream of Tarter
-  1. Flour
-  1. Sugar
+  2. Cream of Tarter
+  3. Flour
+  4. Sugar
   
 ### Here's a simple quote:
 
