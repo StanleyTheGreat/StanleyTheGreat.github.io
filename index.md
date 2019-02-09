@@ -4,18 +4,18 @@ You will find all of my most recent updates here on my website.
 
 ### Here is a poem I wrote for your entertainment:
 
-Roses are red
-Violets are blue
-I like GitHub
-Because it's cool
+Roses are red  
+Violets are blue  
+I like GitHub  
+Because it's cool  
 
 ### Here's the code for a HelloWorld program I wrote in C:
 
 '''C
-#include <stdio.h>
-int main(void) {
-printf("Hello world\n");
-return 0;
+#include <stdio.h>  
+int main(void) {  
+printf("Hello world\n");  
+return 0;  
 }
 '''
 
@@ -32,6 +32,6 @@ return 0;
   
 ### Here's a simple quote:
 
-> It always seems impossible 
+> It always seems impossible   
 > until it's done.
 > ~ Nelson Mandela
