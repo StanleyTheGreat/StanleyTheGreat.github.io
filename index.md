@@ -2,14 +2,14 @@
 
 You will find all of my most recent updates here on my website.
 
-# Here is a poem I wrote for your entertainment:
+### Here is a poem I wrote for your entertainment:
 
 Roses are red
 Violets are blue
 I like GitHub
 Because it's cool
 
-# Here's the code for a HelloWorld program I wrote in C:
+### Here's the code for a HelloWorld program I wrote in C:
 
 '''C
 #include <stdio.h>
@@ -19,7 +19,7 @@ return 0;
 }
 '''
 
-# Here's my grocery list for this week:
+### Here's my grocery list for this week:
 
 1. Pop Tarts
 1. Olive Oil
@@ -30,7 +30,7 @@ return 0;
   1. Flour
   1. Sugar
   
-# Here's a simple quote:
+### Here's a simple quote:
 
 > It always seems impossible 
 > until it's done.
