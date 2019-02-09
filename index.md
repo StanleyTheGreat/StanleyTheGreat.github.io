@@ -4,10 +4,10 @@ You will find all of my most recent updates here on my website.
 
 ### Here is a poem I wrote for your entertainment:
 
-Roses are red  
-Violets are blue  
-I like GitHub  
-Because it's cool  
+Roses are red  <br/>
+Violets are blue  <br/>
+I like GitHub  <br/>
+Because it's cool  <br/>
 
 ### Here's the code for a HelloWorld program I wrote in C:
 
